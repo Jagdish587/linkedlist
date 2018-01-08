@@ -78,6 +78,7 @@ void splitlist(Node* head)
 }
 int main()
 {
+	cout<<"Entered Main \n";
     Node* head = NULL;
 
     push(&head,8);
